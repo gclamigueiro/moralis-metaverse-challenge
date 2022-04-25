@@ -550,7 +550,10 @@ async function login(){
         const chainIdHex = await Moralis.switchNetwork("0x13881");
 
         drawCanvas();
-    });
+    }).catch(error=>{
+		console.log(error);
+		alert(error.message);
+	});
 }
 
 async function assignPlot() {
