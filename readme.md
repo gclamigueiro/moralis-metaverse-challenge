@@ -19,6 +19,9 @@ https://moralis.io/moralis-projects-learn-to-build-your-own-metaverse/
   -  To use it. Go to the Moraland_Frontend folder and execute ```http-server```.
 - Also it is necessary to have configured the "Polygon Testnet Mumbai" in your wallet
 
+## Demo
+
+https://gclamigueiro.github.io/moralis-metaverse-challenge/index.html
 
 # Your Own Metaverse 
 Instructions from the Moralis Repository
